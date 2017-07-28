@@ -3,7 +3,7 @@
 use \WP_CLI\Utils;
 
 /**
- * Perform basic database operations using credentials stored in wp-config.php
+ * DUMMY_EDIT2 Perform basic database operations using credentials stored in wp-config.php
  *
  * ## EXAMPLES
  *
