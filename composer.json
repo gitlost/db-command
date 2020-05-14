@@ -20,8 +20,15 @@
         "psr-4": {"": "src/"},
         "files": [ "db-command.php" ]
     },
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/gitlost/wp-cli.git"
+		}
+
+	],
     "require": {
-        "wp-cli/wp-cli": "*"
+        "wp-cli/wp-cli": "dev-issue_4120"
     },
     "require-dev": {
         "behat/behat": "~2.5"
